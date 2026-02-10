@@ -34,4 +34,3 @@ Fault-tolerant blockchain with PBFT consensus protocol, built in Go with gRPC. F
 
 - **Email:** zhu.k2@northeastern.edu
 - **LinkedIn:** [kai-zhu-12135537a](https://www.linkedin.com/in/kai-zhu-12135537a)
-- **Phone:** 408-759-6992
