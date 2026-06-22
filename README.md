@@ -2,7 +2,7 @@
 
 M.S. Computer Science @ **Northeastern University** (Silicon Valley) | B.S. Information Security @ **Fudan University**
 
-I'm a graduate student focused on **machine learning**, **computer vision**, and **full-stack development**. Currently looking for **2026 Summer SWE / ML internships**.
+I'm a graduate student focused on **machine learning**, **computer vision**, and **ai infra**.
 
 ## 🔧 Tech Stack
 
